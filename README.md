@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @incardo
 - 👀 I’m interested in Data Science, Economics and Technology 
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine learning and building my Github page with public projects
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me rocco.incardona.ri@gmail.com
 
